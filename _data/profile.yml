@@ -1,67 +1,69 @@
-primary_name: "Xinliang Zhang"
+primary_name: "Yuanwei Li"
 # secondary_name: ""
 resume: assets/cv/Resume.pdf
 
 positions:
-- name: Ph.D. Student
+- name: Master Student
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png  # Logo is optional
 
   # - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> Ph.D. Student, Institute of Medical Technology, Peking University'
 
 
-email: "zhangxinliang@stu.pku.edu.cn"
+email: "yuanweili@stu.pku.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: W51OocEAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: Zxl19990529
+gscholar:   # This is an example, replace it with your own Google Scholar ID
+github: WilliamLee30
 # twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-orcid: 0009-0009-8252-7597
+orcid: 0000-0003-2924-6285
 
 short_bio_text_justify: false
 short_bio: >-
-  I am a Ph.D. student at the <span class="text-pku-red">Institute of Medical Technology, Peking University</span>. My research focuses on <span class="text-highlight">Multimodal Large Language Models for efficient reasoning and comprehension</span>. My interests include <span class="text-highlight">Multimodal Large Language Models</span>, <span class="text-highlight">Weakly Supervised Image Segmentation</span>, and <span class="text-highlight">Medical Image Analysis</span>. I am supervised by <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank">Prof. Yanye Lu</a>.
+  I am a master student at the <span class="text-pku-red">Institute of Medical Technology, Peking University</span>. My research focuses on <span class="text-highlight">Multimodal Large Language Models for efficient reasoning and comprehension</span>. My interests include <span class="text-highlight">Multimodal Large Language Models</span>, <span class="text-highlight">Weakly Supervised Image Segmentation</span>, and <span class="text-highlight">Medical Image Analysis</span>. I am supervised by <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank">Prof. Yanye Lu</a>.
 
 portrait_url: /assets/images/photos/myphoto.jpg
 portrait_caption: >-
-  I am a Ph.D. student at Peking University.
+  I am a master student at Peking University.
 
 education:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: >- 
     Institute of Medical Technology, Peking University Health Science Center <br/>
-    Ph.D. Student
-  date: Sep. 2025 - Present
-- name: Tianjin University
-  logo: /assets/images/badges/tju_badge_white.png
+    Master Student
+  date: Sep. 2023 - Present
+- name: Chengdu University of Technology
+  logo: /assets/images/badges/CDUT.png
   position: >- 
-    College of Intelligence and Computing <br/>
-    M.S Student
-  date: Sep. 2021 - Jul. 2024
-- name: Ocean University of China
-  logo: /assets/images/badges/OUC.png
-  position: >- 
-    School of Computer Science and Technology <br/>
+    College of Computer Science and Cyber Security <br/>
     B.S. Student
-  date: Sep. 2017 - Jul. 2021
+  date: Sep. 2019 - Jul. 2023
 
 
 experience:
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: Research Intern
-  date: May. 2024 - Sep. 2025
+- name: Tencent WXG Search Algorithm Department
+  logo: /assets/images/badges/Tencent.png
+  position: MLLM Algorithm Engineer (Full-time via Internship Conversion)
+  date: Jul. 2025 - Present
+- name: ByteDance TikTok Platform Governance Algorithm Department 
+  logo: /assets/images/badges/ByteDance.png
+  position: MLLM Algorithm Engineer (Intern)
+  date: Mar. 2025 - Jun. 2025
+- name: Xiaomi Automobile Intelligent Cabins Algorithm Department 
+  logo: /assets/images/badges/Xiaomi.jpg
+  position: MLLM Algorithm Engineer (Intern)
+  date: Sep. 2024 - Feb. 2025
 
 awards:
-- name: Outstanding cadres of Tianjin University
-  date: 2024
-- name: Outstanding graduates of Shandong Province
-  date: 2021
-- name: China Underwater Robot Professional Contest - Second Prize
-  date: 2019
+- name: National Scholarship 
+  date: 2022
+- name: National Scholarship for Encouragement (x2)
+  date: 2021/2020
+# - name: China Underwater Robot Professional Contest - Second Prize
+#   date: 2019
 # - name: A quick brown fox jumps over the lazy dog and runs away award
 #   date: 2021
