@@ -1,13 +1,12 @@
 primary_name: "Yuanwei Li"
 # secondary_name: ""
-# resume: assets/cv/Resume.pdf
+# resume: assets/cv/
 
 positions:
 - name: M.S. Student
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png  # Logo is optional
 
-  # - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> Ph.D. Student, Institute of Medical Technology, Peking University'
 
 
 email: "yuanweili@stu.pku.edu.cn"
@@ -24,7 +23,7 @@ orcid: 0000-0003-2924-6285
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a <strong>third-year Master’s student</strong> at the <strong>Institute of Medical Technology, Peking University</strong>, under the supervision of <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank"><strong>Prof. Yanye Lu</strong></a>. 
+    I am Yuanwei Li (李远威) from Peking University. I'm a <strong>third-year Master’s student</strong> at the Medical Intelligence Lab (<a href="https://www.milab.wiki/" target="_blank">MILab</a>), under the supervision of assistant professor <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank"><strong>Yanye Lu</strong></a> (卢闫晔). 
     My research primarily investigates <strong>weakly supervised learning</strong>, <strong>vision foundation models</strong>, and <strong>microscopy image segmentation</strong>, with specific emphasis on <strong>nuclei segmentation</strong> in histopathology and <strong>mitochondria segmentation</strong> in electron microscopy.
   </p>
   <p>
@@ -48,11 +47,6 @@ education:
     College of Computer Science and Cyber Security <br/>
     B.S. Student
   date: Sep. 2019 - Jul. 2023
-# - name: Weiyuan Middle School
-#   logo: /assets/images/badges/Weiyuan.png
-#   position: >- 
-#     High School Student
-#   date: Sep. 2016 - Jun. 2019
 
 
 experience:
@@ -74,7 +68,3 @@ awards:
   date: 2022
 - name: National Scholarship for Encouragement ( x2 times)
   date: 2021&2020
-# - name: China Underwater Robot Professional Contest - Second Prize
-#   date: 2019
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
