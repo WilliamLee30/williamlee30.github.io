@@ -23,7 +23,7 @@ orcid: 0000-0003-2924-6285
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am Yuanwei Li (李远威) from Peking University. I'm a <strong>third-year Master’s student</strong> at the Medical Intelligence Lab (<a href="https://www.milab.wiki/" target="_blank">MILab</a>), under the supervision of assistant professor <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank"><strong>Yanye Lu</strong></a> (卢闫晔). 
+    I am Yuanwei Li (李远威) from Peking University. I'm a <strong>third-year M.S. student</strong> at the Medical Intelligence Lab (<a href="https://www.milab.wiki/" target="_blank">MILab</a>), under the supervision of assistant professor <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank"><strong>Yanye Lu</strong></a> (卢闫晔). 
     My research primarily investigates <strong>weakly supervised learning</strong>, <strong>vision foundation models</strong>, and <strong>microscopy image segmentation</strong>, with specific emphasis on <strong>nuclei segmentation</strong> in histopathology and <strong>mitochondria segmentation</strong> in electron microscopy.
   </p>
   <p>
