@@ -81,3 +81,23 @@ If you run into **any** issues while using this template, or have suggestions fo
 
 3. Navigate to your created website, and follow the instructions displayed on the homepage (if any) to finalize the setup.
 
+# 文献总结
+```markdown
+   下面将提供一篇论文的英文摘要和引言截图。
+   你的任务是基于所提供的摘要与引言内容，撰写一段用于展示在个人学术主页（Academic Homepage）中的论文介绍文字。撰写时请严格遵循以下要求：
+   1. 内容要求
+   - 准确概括论文的研究背景、核心问题与技术路线；
+   - 突出论文的主要创新点与技术贡献；
+   - 强调实验结果或性能提升等关键成果（如有体现）；
+   - 不得引入摘要和引言中未出现的新观点或新结论。
+   2. 表达要求
+   - 语言简洁、凝练，适合学术主页展示（而非论文正文风格）；
+   - 保持学术表达的严谨性与专业性；
+   - 突出工作价值与研究意义，但避免夸张或宣传式表述；
+   - 建议控制在 120–200 词左右。
+   3. 风格定位
+   - 风格介于论文摘要与Research Statement之间；
+   - 强调“做了什么”“解决了什么问题”“带来了什么改进”；
+   - 适合面向同行研究者和潜在合作者阅读。
+   请直接给出最终撰写完成的英文介绍段落。
+```
