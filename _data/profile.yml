@@ -1,9 +1,9 @@
 primary_name: "Yuanwei Li"
 # secondary_name: ""
-resume: assets/cv/Resume.pdf
+# resume: assets/cv/Resume.pdf
 
 positions:
-- name: Master Student
+- name: M.S. Student
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png  # Logo is optional
 
@@ -23,8 +23,14 @@ orcid: 0000-0003-2924-6285
 
 short_bio_text_justify: false
 short_bio: >-
-  I am a master student at the <span class="text-pku-red">Institute of Medical Technology, Peking University</span>. My research focuses on <span class="text-highlight">Multimodal Large Language Models for efficient reasoning and comprehension</span>. My interests include <span class="text-highlight">Multimodal Large Language Models</span>, <span class="text-highlight">Weakly Supervised Image Segmentation</span>, and <span class="text-highlight">Medical Image Analysis</span>. I am supervised by <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank">Prof. Yanye Lu</a>.
-
+  <p>
+    I am a <strong>third-year Master’s student</strong> at the <strong>Institute of Medical Technology, Peking University</strong>, under the supervision of <a href="https://nbic.pku.edu.cn/en/Faculty/Researchers/AdjunctPrincipalInvestigators/0a96455fce164e508fbe96162ef92f79.htm" target="_blank"><strong>Prof. Yanye Lu</strong></a>. 
+    My research primarily investigates <strong>weakly supervised learning</strong>, <strong>vision foundation models</strong>, and <strong>microscopy image segmentation</strong>, with specific emphasis on <strong>nuclei segmentation</strong> in histopathology and <strong>mitochondria segmentation</strong> in electron microscopy.
+  </p>
+  <p>
+    Currently, I am a full-time <strong>MLLM Algorithm Engineer</strong> at the <strong>Search Algorithm Department</strong> within <strong>Tencent’s WeChat Group (WXG)</strong>. 
+    My research interests focus on the <strong>post-training</strong> and <strong>distributed training</strong> of <strong>Multimodal Large Language Models (MLLMs)</strong>, as well as the application of <strong>Agentic Reinforcement Learning</strong> in search scenarios.
+  </p>
 portrait_url: /assets/images/photos/myphoto.jpg
 portrait_caption: >-
   I am a master student at Peking University.
@@ -33,8 +39,8 @@ education:
 - name: Peking University
   logo: /assets/images/badges/PKU_red.png
   position: >- 
-    Institute of Medical Technology, Peking University Health Science Center <br/>
-    Master Student
+    Institute of Medical Technology <br/>
+    M.S. Student
   date: Sep. 2023 - Present
 - name: Chengdu University of Technology
   logo: /assets/images/badges/CDUT.png
@@ -42,27 +48,32 @@ education:
     College of Computer Science and Cyber Security <br/>
     B.S. Student
   date: Sep. 2019 - Jul. 2023
+# - name: Weiyuan Middle School
+#   logo: /assets/images/badges/Weiyuan.png
+#   position: >- 
+#     High School Student
+#   date: Sep. 2016 - Jun. 2019
 
 
 experience:
 - name: Tencent WXG Search Algorithm Department
   logo: /assets/images/badges/Tencent.png
-  position: MLLM Algorithm Engineer (Full-time via Internship Conversion)
+  position: MLLM Algorithm Engineer (Full-time via Intern Conversion) | Distributed Training (Megatron), Agentic RL
   date: Jul. 2025 - Present
 - name: ByteDance TikTok Platform Governance Algorithm Department 
   logo: /assets/images/badges/ByteDance.png
-  position: MLLM Algorithm Engineer (Intern)
+  position: MLLM Algorithm Engineer (Intern) | Post-training (SFT/GRPO)
   date: Mar. 2025 - Jun. 2025
 - name: Xiaomi Automobile Intelligent Cabins Algorithm Department 
   logo: /assets/images/badges/Xiaomi.jpg
-  position: MLLM Algorithm Engineer (Intern)
+  position: MLLM Algorithm Engineer (Intern) | Post-training (SFT/DPO)
   date: Sep. 2024 - Feb. 2025
 
 awards:
 - name: National Scholarship 
   date: 2022
-- name: National Scholarship for Encouragement (x2)
-  date: 2021/2020
+- name: National Scholarship for Encouragement ( x2 times)
+  date: 2021&2020
 # - name: China Underwater Robot Professional Contest - Second Prize
 #   date: 2019
 # - name: A quick brown fox jumps over the lazy dog and runs away award

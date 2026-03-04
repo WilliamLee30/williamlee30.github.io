@@ -6,8 +6,8 @@
 
 # # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # # if you keep the link to the template so that more people can benefit from it. Thanks!
-# footer_text: >-
-#   <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage</a>
+footer_text: >-
+  <span style="white-space: nowrap;">Based on the wonderful <a href="https://github.com/luost26/academic-homepage" target="_blank" class="profile_href"><i class="fas fa-pencil-ruler"></i>academic-homepage</a>, <a href="https://onethousandwu.com/" target="_blank" class="profile_href">onethousandwu</a>, and <a href="https://zhangxinliang.top/" target="_blank" class="profile_href">zhangxinliang</a>, customized by <a href="" target="_blank" class="profile_href">Yuanwei Li</a>.</span>
 homepage:
   show_profile: true
   show_news: true
